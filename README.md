@@ -1,5 +1,10 @@
-# Hello World 👋
-My name is Nguyễn Tuấn Nguyên Ân or you can call me Andre and I'm a Software Engineer from Vietnam. Currently living in the Netherlands.
+<h1 align="center"> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> <samp>Hello World</samp> <img src="https://github.com/mupezzuol/mupezzuol/blob/master/assets/earth.gif" width="22px" height="22px"> </h1>
+
+<h2 align="center"><samp>I'm Nguyễn Tuấn Nguyên Ân or you can call me Andre</samp></h2>
+<h3 align="center"><samp>A software developer from Vietnam</samp></h3>
+<h3 align="center"><samp>Currently living in the Netherlands</samp></h3>
+
+<img align="center" alt="Coding" width="1000" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
 
 ## 🌐 Where to find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-nguyen-an-nguyen-3b58a3334/) 
