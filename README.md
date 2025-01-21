@@ -1,3 +1,4 @@
+---
 # Hello World 👋
 My name is Nguyễn Tuấn Nguyên Ân or you can call me Andre and I'm a Software Engineer from Vietnam. Currently living in the Netherlands.
 
@@ -11,11 +12,6 @@ My name is Nguyễn Tuấn Nguyên Ân or you can call me Andre and I'm a Softwa
 ## ✍️ A developer once said
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
----
-[![](https://visitcount.itsvg.in/api?id=nguyentuannguyenan&icon=5&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
 ## 📊 GitHub stats
 
 <div align="center">
@@ -28,6 +24,8 @@ My name is Nguyễn Tuấn Nguyên Ân or you can call me Andre and I'm a Softwa
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
   <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
 </picture>
+
+---
 
 <!---
 nguyentuannguyenan/nguyentuannguyenan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
