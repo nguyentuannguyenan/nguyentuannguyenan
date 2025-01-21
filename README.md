@@ -1,9 +1,13 @@
 # Hi I'm Nguyễn Tuấn Nguyên Ân, or you can call me Andre 👋
 
 
-[![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentuannguyenan)](https://github.com/nguyentuannguyenan/github-readme-stats)
+<a href="https://github.com/nguyentuannguyenan/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nguyentuannguyenan" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentuannguyenan&layout=donut-vertical)](https://github.com/nguyentuannguyenan/github-readme-stats)
+<a href="https://github.com/nguyentuannguyenan/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyentuannguyenan&layout=compact&langs_count=8&card_width=320" />
+</a>
 
 - 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me: nguyenan29072001@gmail.com
