@@ -1,19 +1,13 @@
-# Hi I'm Nguyễn Tuấn Nguyên Ân, or you can call me Andre 👋
+# Hello World 👋
+## My name is Nguyễn Tuấn Nguyên Ân or you can call me Andre and I'm a Software Engineer from Vietnam. Currently living in the Netherlands.
 
+###
 
-<a href="https://github.com/nguyentuannguyenan">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=nguyentuannguyenan&rank_icon=github" />
-</a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyentuannguyenan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyentuannguyenan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="180" alt="languages graph"  />
+</div>
 
-<a href="https://github.com/nguyentuannguyenan">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyentuannguyenan&layout=compact&langs_count=8&card_width=320" />
-</a>
-
----
-
-
-- 🌱 I’m currently learning Software Engineering
-- 📫 How to reach me: nguyenan29072001@gmail.com
 
 
 <!---
