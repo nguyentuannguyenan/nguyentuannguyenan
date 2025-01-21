@@ -1,11 +1,11 @@
 # Hi I'm Nguyễn Tuấn Nguyên Ân, or you can call me Andre 👋
 
 
-<a href="https://github.com/nguyentuannguyenan/github-readme-stats">
+<a href="https://github.com/nguyentuannguyenan">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=nguyentuannguyenan" />
 </a>
 
-<a href="https://github.com/nguyentuannguyenan/convoychat">
+<a href="https://github.com/nguyentuannguyenan">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyentuannguyenan&layout=compact&langs_count=8&card_width=320" />
 </a>
 
