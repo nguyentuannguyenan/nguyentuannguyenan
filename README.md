@@ -2,11 +2,11 @@
 
 
 <a href="https://github.com/nguyentuannguyenan">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=nguyentuannguyenan" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api?username=nguyentuannguyenan" />
 </a>
 
 <a href="https://github.com/nguyentuannguyenan">
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyentuannguyenan&layout=compact&langs_count=8&card_width=320" />
+  <img height=175 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyentuannguyenan&layout=compact&langs_count=8&card_width=320" />
 </a>
 
 - 🌱 I’m currently learning Software Engineering
