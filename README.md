@@ -1,7 +1,5 @@
----
 # Hello World 👋
 My name is Nguyễn Tuấn Nguyên Ân or you can call me Andre and I'm a Software Engineer from Vietnam. Currently living in the Netherlands.
-
 
 ## 🌐 Where to find me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuan-nguyen-an-nguyen-3b58a3334/) 
@@ -13,7 +11,6 @@ My name is Nguyễn Tuấn Nguyên Ân or you can call me Andre and I'm a Softwa
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dracula)
 
 ## 📊 GitHub stats
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=nguyentuannguyenan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&rank_icon=github" height="190" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyentuannguyenan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="190" alt="languages graph"  />
