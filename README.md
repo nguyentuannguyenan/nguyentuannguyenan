@@ -3,6 +3,8 @@
 
 [![Andre's GitHub stats](https://github-readme-stats.vercel.app/api?username=nguyentuannguyenan)](https://github.com/nguyentuannguyenan/github-readme-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nguyentuannguyenan&layout=donut-vertical)](https://github.com/nguyentuannguyenan/github-readme-stats)
+
 - 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me: nguyenan29072001@gmail.com
 
