@@ -2,7 +2,7 @@
 
 
 <a href="https://github.com/nguyentuannguyenan">
-  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=nguyentuannguyenan" />
+  <img height=190 align="center" src="https://github-readme-stats.vercel.app/api?username=nguyentuannguyenan&rank_icon=github" />
 </a>
 
 <a href="https://github.com/nguyentuannguyenan">
