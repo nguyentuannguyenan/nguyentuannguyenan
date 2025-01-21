@@ -36,7 +36,7 @@
   </table>
 </div>
 
-<h5 align="center"><samp>You can also contact me through email: nguyenan29072001@gmail.com</samp></h5>
+<h4 align="center"><samp>You can also contact me through email: nguyenan29072001@gmail.com</samp></h4>
 
 <h3 align="center"><samp>📊 GitHub stats 📊</samp></h3>  
 <div align="center">
