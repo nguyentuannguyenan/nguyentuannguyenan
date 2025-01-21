@@ -9,6 +9,9 @@
   <img height=190 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyentuannguyenan&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+---
+
+
 - 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me: nguyenan29072001@gmail.com
 
