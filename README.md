@@ -16,7 +16,7 @@
   <table align="center">
     <tr>
      <td align="center" width="100">
-          <a href="https://www.linkedin.com/in/tuan-nguyen-an-nguyen-3b58a3334/"><img src="https://skillicons.dev/icons?i=linkedin" href="https://www.linkedin.com/in/tuan-nguyen-an-nguyen-3b58a3334/" alt="icon" width="45" height="45" /></a>
+          <a href="https://www.linkedin.com/in/nguyen-tuan-nguyen-an/"><img src="https://skillicons.dev/icons?i=linkedin" href="https://www.linkedin.com/in/tuan-nguyen-an-nguyen-3b58a3334/" alt="icon" width="45" height="45" /></a>
         <br>Linkedin
       </td>
         <td align="center" width="100">
