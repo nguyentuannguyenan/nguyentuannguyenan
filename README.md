@@ -1,4 +1,5 @@
-- 👋 Hi, I’m @nguyentuannguyenan
+# Hi I'm Nguyen Tuan Nguyen An, or your can call me Andre 👋
+
 - 🌱 I’m currently learning Software Engineering
 - 📫 How to reach me: nguyenan29072001@gmail.com
 
