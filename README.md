@@ -40,8 +40,15 @@
 
 <h3 align="center"><samp>📊 GitHub stats 📊</samp></h3>  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=nguyentuannguyenan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="190" alt="languages graph"/>
+
+
+![](https://github-readme-stats.shion.dev/api/top-langs/?username=nguyentuannguyenan&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 </div>
+
+
+---
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
